@@ -2,6 +2,7 @@ import type { Leaderboard } from "$lib/types";
 
 // gave everyone +3 for boba drops website, lmk if we should change number
 
+
 const data: Leaderboard = [
   {
     name: "Aarush Arya",

@@ -1,5 +1,5 @@
 const info = {
-  copyright_year: "2024",
+  copyright_year: "2025",
 
   discord_link: "https://discord.gg/QGxaW5dSG2",
   instagram_link: "https://www.instagram.com/tinovationchs",
@@ -15,18 +15,17 @@ const info = {
   form_link: "https://forms.gle/8v1tzN5hnULHtN447",
   form_text: "registration form",
 
-  co_presidents: ["Purva Marfatia", "Bhargav Eranki"],
-  vice_president: "Shine Chang",
-  secretary_treasurer: "Arnav Sharma",
+  co_presidents: ["Michael Chuang", "Ayush Bheemaiah"],
+  vice_president: "Kavya Gupta",
+  secretary_treasurer: "Shauryan Kanaujia",
   mentors: [
-    "Kavya Gupta",
-    "Advaiyt Sane",
+    "Arnav Gokhale",
+    "Alex Li",
     "Dhruva Srinivas",
-    "Alvin Kang",
-    "Ayush Bheemaiah",
-    "Christopher Zhang",
-    "Shauryan Kanaujia",
-    "Michael Chuang",
+    "Bernard Freund",
+    "Prakruti Sunil",
+    "Aarush Arya",
+    "Jimin Lee",
   ],
   club_advisor: "Mr. Ferrante",
 
