@@ -6,6 +6,15 @@ import type { Project } from "./types";
 
 const showcaseProjects: Project[] = [
   {
+    thumbnail_image: "clayable.png",
+    name: "clayable",
+    authors: ["paperclip"],
+    date: "2025-10-26",
+    description: "Sculpt with your cursor! An interactive 3D clay modeling tool in the browser.",
+    main_link: "https://clayable.vercel.app/",
+    github_link: "https://github.com/paperclip/clayable",
+  },
+  {
     thumbnail_image: "confbooker.png",
     name: "Conference Room Booker",
     authors: ["Purva Marfatia"],
